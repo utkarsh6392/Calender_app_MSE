@@ -21,10 +21,10 @@ A modern, high-performance Flutter application designed for seamless daily sched
 
 | Day Mode Dashboard | Night Mode Details | Event Creation |
 | :---: | :---: | :---: |
-| ![Day Mode](<img width="315" height="697" alt="image" src="https://github.com/user-attachments/assets/1307f79b-93d3-4d05-b5b3-6249ebc67d0a" />
-) | ![Night Mode](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5f2b9b5b-52c9-4d03-a4e9-0a52ccd2c94b" />
-) | ![Notification Toggle](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5150d26a-f530-4f39-9a57-890381ec93ba" />
-) |
+| ![Day Mode]<img width="315" height="697" alt="image" src="https://github.com/user-attachments/assets/1307f79b-93d3-4d05-b5b3-6249ebc67d0a" />
+| ![Night Mode]<img width="304" height="689" alt="image" src="https://github.com/user-attachments/assets/bec5fbae-d2d4-4ed0-9ee3-78a21733fe68" />
+| ![Notification Toggle]<img width="303" height="689" alt="image" src="https://github.com/user-attachments/assets/099fe689-8d26-4d76-93e4-7cdd01658c4c" />
+
 
 ---
 
@@ -34,8 +34,10 @@ A modern, high-performance Flutter application designed for seamless daily sched
 - Flutter SDK: `^3.11.0`
 - Dart SDK: `^3.1.0`
 
-### Installation & Run
-
-1. **Clone the repository**
-   ```bash
-   git clone (https://github.com/utkarsh6392/Calender_app_MSE/releases/tag/v.0.1)
+### Steps for a visitor to download your APK
+## 📲 How to Download & Install
+1. Navigate to the **Releases** section on the right side of this page.
+2. Click on the latest release tag (v.0.1).
+3. Under **Assets**, click on `app-release.apk` to download the installer.
+4. On your Android device, open the downloaded file and select **Install**. 
+   *(Note: You may need to enable 'Install from Unknown Sources' in your device settings).*
