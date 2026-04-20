@@ -19,11 +19,10 @@ A modern, high-performance Flutter application designed for seamless daily sched
 
 ## 📸 Project Highlights
 
-| Day Mode Dashboard | Night Mode Details | Event Creation |
-| :---: | :---: | :---: |
-| ![Day Mode]<img width="315" height="697" alt="image" src="https://github.com/user-attachments/assets/1307f79b-93d3-4d05-b5b3-6249ebc67d0a" />
-| ![Night Mode]<img width="304" height="689" alt="image" src="https://github.com/user-attachments/assets/bec5fbae-d2d4-4ed0-9ee3-78a21733fe68" />
-| ![Notification Toggle]<img width="303" height="689" alt="image" src="https://github.com/user-attachments/assets/099fe689-8d26-4d76-93e4-7cdd01658c4c" />
+
+| Day Mode Dashboard |<img width="315" height="697" alt="image" src="https://github.com/user-attachments/assets/1307f79b-93d3-4d05-b5b3-6249ebc67d0a" />
+| Night Mode Details |<img width="304" height="689" alt="image" src="https://github.com/user-attachments/assets/bec5fbae-d2d4-4ed0-9ee3-78a21733fe68" />
+| Event Creation |<img width="303" height="689" alt="image" src="https://github.com/user-attachments/assets/099fe689-8d26-4d76-93e4-7cdd01658c4c" />
 
 
 ---
